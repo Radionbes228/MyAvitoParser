@@ -21,10 +21,7 @@ public class Main {
 
 
     static Session session;
-    static String from = "radionbes@gmail.com";
-    static String to = "radionbeslaneev98@gmail.com";
-    static String host = "smtp.gmail.com";
-    static String smtpPort = "465";
+
     static Properties properties;
 
 
